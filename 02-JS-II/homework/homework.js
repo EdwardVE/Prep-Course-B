@@ -54,6 +54,7 @@ function devolverString(str) {
     // Devuelve "true" si las dos strings tienen la misma longitud
     // De lo contrario, devuelve "false"
     // Tu código:
+    //Palabra.length Cantidad de caracteres de la cadena almacenda en Palabra
   }
   
   function menosQueNoventa(num) {
